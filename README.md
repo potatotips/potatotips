@@ -2,6 +2,7 @@
 
 ## スケジュール
 
+* [第11回 2014年11月25日](https://github.com/potatotips/potatotips/wiki/potatotips-11)
 * [第10回 2014年10月22日](https://github.com/potatotips/potatotips/wiki/potatotips-10)
 * [第09回 2014年09月24日](https://github.com/potatotips/potatotips/wiki/potatotips-9)
 * [第08回 2014年08月20日](https://github.com/potatotips/potatotips/wiki/potatotips-8)
