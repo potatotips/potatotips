@@ -11,6 +11,14 @@
 - https://github.com/potatotips/potatotips/issues?q=is:issue+is:closed
 - https://github.com/potatotips/potatotips/wiki
 
+## 主催いただける場合の連絡先
+
+運営窓口の所までお気軽にお問い合わせください。
+
+- Facebook Messenger https://www.facebook.com/yuta.tokoro.7
+- Twitter https://twitter.com/tokorom
+- Mail tokorom@gmail.com
+
 ## 主催者様にお願いすること
 
 1. 会場のご手配
