@@ -70,3 +70,7 @@
     - 軽食
     - ビール/ソフトドリングなど
 
+## 開催者さま向けTips
+
+https://github.com/potatotips/potatotips/wiki/potatotips開催-Tips
+
