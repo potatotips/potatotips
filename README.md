@@ -19,7 +19,11 @@
 - Twitter https://twitter.com/tokorom
 - Mail tokorom@gmail.com
 
+また、 https://github.com/potatotips/potatotips/issues で今後の予定Issueタイトルに「空きアリ」と明記されている場合、Issue内のmentionで予約宣言をいただいても大丈夫です（最近はその方法でご予約いただくことが多いです）。
+
 ## 主催者様にお願いすること
+
+potatotips当日の運営に関しては基本的に全てお任せする形になります（日程が合わない場合、運営窓口の所が参加しないケースもあります）。
 
 1. 会場のご手配・設営・撤収
 2. 当日の司会進行
