@@ -15,7 +15,7 @@
 
 運営窓口の所までお気軽にお問い合わせください。
 
-- Facebook Messenger https://www.facebook.com/yuta.tokoro.7
+- GitHub Issuesで直接予約 https://github.com/potatotips/potatotips/issues
 - Twitter https://twitter.com/tokorom
 - Mail tokorom@gmail.com
 
